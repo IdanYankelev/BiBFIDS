@@ -1,0 +1,8 @@
+Search Algorithm,Mean Expansions,Mean Percentage,Mean Time (s),Mean Memory (MB)
+BFS,144.79,0.56,0.022,0.09
+IDS,612.94,0.99,0.045,0.004
+BiBFS,27.85,0.44,0.002,0.02
+IDBiHS,369.85,0.43,0.02,0.005
+BiBFIDS (10K),78.7,0.48,0.029,0.004
+BiBFIDS (100K),78.7,0.48,0.028,0.016
+BiBFIDS (1M),78.7,0.48,0.029,0.128
