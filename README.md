@@ -105,15 +105,3 @@ python src/bibfids.py --problem sliding_tile --size 3x3 --variant 100K
 - **Yarin Yerushalmi Levi** – [yarinye@post.bgu.ac.il](mailto:yarinye@post.bgu.ac.il)
 
 ---
-
-## 📂 Repo Structure
-
-```
-├── BiBFIDS.pdf            # Project paper
-├── README.md              # Project documentation
-├── src/
-│   ├── bifbids.py         # Core algorithm
-│   └── utils.py           # Helper functions and data structures
-└── data/
-    └── problems/          # Puzzle definitions
-```
